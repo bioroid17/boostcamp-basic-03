@@ -4,7 +4,7 @@
   "description": "네이버 부스트캠프 베이직 미션 3",
   "main": "find.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node find.js"
   },
   "repository": {
     "type": "git",
